@@ -1,0 +1,12 @@
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,13 @@
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb

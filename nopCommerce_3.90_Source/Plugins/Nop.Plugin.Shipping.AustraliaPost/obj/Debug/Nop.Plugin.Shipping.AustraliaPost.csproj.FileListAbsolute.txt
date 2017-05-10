@@ -1,0 +1,11 @@
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
