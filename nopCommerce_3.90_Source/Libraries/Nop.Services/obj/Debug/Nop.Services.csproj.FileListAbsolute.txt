@@ -105,3 +105,6 @@ D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Servi
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\obj\Debug\Nop.Services.csprojResolveAssemblyReference.cache
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\obj\Debug\Nop.Services.dll
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\obj\Debug\Nop.Services.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\bin\Debug\System.Data.SqlServerCe.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\bin\Debug\Nop.Core.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Services\bin\Debug\Nop.Data.dll.config

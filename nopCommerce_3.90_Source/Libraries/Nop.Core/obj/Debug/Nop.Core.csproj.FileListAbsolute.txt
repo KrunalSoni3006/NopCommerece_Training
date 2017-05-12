@@ -27,3 +27,4 @@ D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Core\
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache

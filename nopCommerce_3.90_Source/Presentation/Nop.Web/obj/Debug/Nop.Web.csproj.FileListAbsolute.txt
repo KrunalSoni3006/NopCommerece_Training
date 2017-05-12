@@ -156,3 +156,8 @@ D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.We
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojResolveAssemblyReference.cache
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
 D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Core.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Data.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Services.dll.config
+D:\PersonalGit\NopCommerece_Training\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Web.Framework.dll.config
